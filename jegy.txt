@@ -1,0 +1,7 @@
+Menetjegy:
+w	01:02
+e	03:04
+Vonat: re
+
+Helyjegy:
+1. kocsi, 1. hely
